@@ -3,6 +3,7 @@
  * (c) 2013 Luis Farzati http://github.com/luisfarzati/ng-bs-daterangepicker
  * License: MIT
  */
+ 
 (function (angular) {
 'use strict';
 
